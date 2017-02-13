@@ -1,0 +1,2 @@
+# djangoex
+Django experement
